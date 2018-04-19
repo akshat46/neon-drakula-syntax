@@ -1,1 +1,1 @@
-# neon-drakula-syntax
+# Neon Drakula syntax
